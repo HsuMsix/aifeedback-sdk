@@ -1,6 +1,6 @@
 {
   "name": "aifeedback-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight SDK for submitting feedback.",
   "main": "dist/feedback-sdk.min.js",
   "scripts": {
